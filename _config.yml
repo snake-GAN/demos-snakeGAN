@@ -1,0 +1,6 @@
+remote_theme: thuhcsi/slate
+title: Demos of Incorporating DDSP Prior into Snake Based Universal GAN Vocoder
+description: Submitted to ICME-2023.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
