@@ -1,5 +1,5 @@
 remote_theme: thuhcsi/slate
-title: Demos of Incorporating DDSP Prior into Snake Based Universal GAN Vocoder
+title: Demos of SnakeGAN-Leveraging DDSP Prior Knowledge and Periodic Inductive Bias
 description: Submitted to ICME-2023.
 show_downloads: true
 google_analytics:
